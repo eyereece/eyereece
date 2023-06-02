@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, my name is Joan Kusuma</h2>
 <h4 align="center">Machine Learning Enthusiast</h4>
 
-🌱 I’m currently learning Data Structures and Algorithm
-💬 Languages: Python, SQL
+<br>🌱 I’m currently learning Data Structures and Algorithm</br>
+<br>💬 Languages: Python, SQL</br>
 
 
 
