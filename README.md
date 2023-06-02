@@ -2,6 +2,7 @@
 <h4 align="center">Machine Learning Enthusiast</h4>
 
 🌱 I’m currently learning Data Structures and Algorithm
+💬 Languages: Python, SQL
 
 
 
