@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, my name is Joan Kusuma</h2>
 <h4 align="center">Machine Learning Enthusiast</h4>
 
-<br>🌱 I’m currently taking the Machine Learning course from Coursera/Stanford</br>
+<br>🌱 I’m currently taking the Machine Learning course from Deeplearning.ai and Stanford Online</br>
 💬 Languages: Python, SQL
 
 
