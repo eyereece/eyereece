@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋, my name is Joan Kusuma</h2>
-<h4 align="center">Machine Learning Enthusiast</h4>
+<h4 align="center">AI | ML | DL</h4>
 
-<br>🌱 I’m currently working on a Recommendation System project</br>
-💬 Languages: Python, SQL
+<br>🌱 I’m currently learning Deep Learning offered by DeepLearning.ai on Coursera</br>
+💬 Python | TensorFlow | NumPy | Pandas
+
 
 
 
