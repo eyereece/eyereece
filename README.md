@@ -2,7 +2,8 @@
 <h4 align="center">AI | ML | DL</h4>
 
 <br>🌱 I’m currently learning Deep Learning offered by DeepLearning.ai on Coursera</br>
-💬 Python | TensorFlow | NumPy | Pandas
+🔭 I write about everything I've learned related to AI, ML, and DL on my blog <a href="https://www.joankusuma.com">here</a>
+<br>💬 Python | TensorFlow | NumPy | Pandas</br>
 
 
 
