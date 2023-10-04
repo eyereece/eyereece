@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, my name is Joan Kusuma</h2>
+<h2 align="center">Hi 👋, I'm Joan!</h2>
 <h4 align="center">AI | ML | DL</h4>
 
 🔭 I write about everything I've learned related to AI, ML, and DL on my blog <a href="https://www.joankusuma.com">here</a>
