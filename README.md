@@ -5,6 +5,8 @@
 
 🔭 I'm currently working on: <a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/fashion-recommender-v1">Fashion Recommender System</a>, a system that learns image representations through Neural Networks and utilize ANN similarity search index to retrieve and rank these image representations.
 
+💻 I post my Practice Deep Learning Notebooks here: <a href="https://github.com/eyereece/deep-learning-notebooks/tree/main">Deep Learning Notebooks</a>, it currently contains a CNN Classification and an Image Segmentation with ResNet notebooks.
+
 <br>My past projects:</br>
 <br>📺 <a href="https://github.com/eyereece/movie-recommenders-with-tensorflow">Movie Recommender System </a>, built a two tower model using TensorFlow and Netflix Dataset</br>
 <br>🐉 <a href="https://github.com/eyereece/cs50p-python-project">Mini Adventure Game</a>, my first mini project with Python</br>
