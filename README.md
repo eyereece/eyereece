@@ -3,7 +3,7 @@
 
 🔭 I write about everything I've learned related to AI, ML, and DL on my blog <a href="https://www.joankusuma.com">here</a>
 
-🔭 I'm currently working on: <a href="https://github.com/eyereece/deep-learning-notebooks">Fashion Recommender System</a>, a system that is able to identify clothing articles through an image, and recommend similar and/or complimentary fashion items based on what it sees.
+🔭 I'm currently working on: <a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/fashion-recommender-v1">Fashion Recommender System</a>, a system that learns image representations through Neural Networks and utilize ANN similarity search index to retrieve and rank these image representations.
 
 <br>My past projects:</br>
 <br>📺 <a href="https://github.com/eyereece/movie-recommenders-with-tensorflow">Movie Recommender System </a>, built a two tower model using TensorFlow and Netflix Dataset</br>
