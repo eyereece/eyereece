@@ -11,9 +11,13 @@
 🛍️ <a href="https://github.com/eyereece/fashion-recommender-cv">Fashion Recommender System</a>, a system that detects fashion objects and learns image representations through Neural Networks. It also utilizes ANN similarity search index to retrieve and rank these image representations. <b><i>in progress </i></b>
 * Models used: YOLOv5, Convolutional Autoencoder
 * ANN index: FAISS Flat Index
+
+👁 <a href="https://github.com/eyereece/yolo-object-detection-fashion">Object Detection model on fashion images</a>, A model that detects and identifies fashion objects in images and provides bounding box coordinates for each identified fashion class.
+* The current model attained a +4.1% mAP score improvement over the baseline
+
   
 📑  <a href="https://github.com/eyereece/deep-learning-notebooks/tree/main">Deep Learning Notebooks</a>
-* It currently contains my notebooks related to my experiments with different models and algorithms while working on the project above.
+* It currently contains my notebooks related to my experiments with different models and algorithms while working on the fashion recommender project above.
 * Image Classification with CNN (<a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/multiclass-fashion-image-classification">multiclass classification</a>)
 * Image Segmentation with UNET and a pretrained ResNet backbone (<a href="https://github.com/eyereece/deep-learning-notebooks/blob/main/multilabel_image_segmentation/unet-segmentation-1.ipynb">multilabel classification</a>)
 * Feature Extraction with pre-trained ResNet18 architecture (<a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/fashion-recommender-v1">fashion-recommender-v1</a>)
