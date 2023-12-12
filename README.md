@@ -7,13 +7,12 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-## 💻 Current Projects
-🛍️ <a href="https://github.com/eyereece/fashion-recommender-cv">Fashion Recommender System</a>, a system that detects fashion objects and learns image representations through Neural Networks. It also utilizes ANN similarity search index to retrieve and rank these image representations. <b><i>in progress </i></b>
+## 💻 Latest Projects
+🛍️ <a href="https://github.com/eyereece/fashion-recommender-cv">Fashion Recommender System</a>, a system that detects fashion objects and learns image representations through Neural Networks. It also utilizes ANN similarity search index to retrieve and rank these image representations.
 * Models used: YOLOv5, Convolutional Autoencoder
 * ANN index: FAISS Flat Index
-
-👁 <a href="https://github.com/eyereece/yolo-object-detection-fashion">Object Detection model on fashion images</a>, A model that detects and identifies fashion objects in images and provides bounding box coordinates for each identified fashion class.
-* The current model attained a +4.1% mAP score improvement over the baseline
+* <a href="https://github.com/eyereece/yolo-object-detection-fashion">Object Detection Model Repo</a>, the object detection model was used to detect fashion objects and obtain bounding box coordinates
+* <a href="https://github.com/eyereece/visual-search-with-image-embedding">Embedding Model Repo</a>, the model then obtain a 512-dimensional embedding of each detected fashion objects with an embedding model, and utilized an ANN algorithm to find the top-k similar images based on their vector embeddings
 
   
 📑  <a href="https://github.com/eyereece/deep-learning-notebooks/tree/main">Deep Learning Notebooks</a>
@@ -29,8 +28,11 @@
 <br>🐉 <a href="https://github.com/eyereece/cs50p-python-project">Mini Adventure Game</a>, my first mini project with Python</br>
 <br>📊 <a href="https://github.com/eyereece/google-data-analytics-capstone-1">An Analysis of Bike Services Data with R</a></br>
 <br>💻 <a href="https://github.com/eyereece/coursera-sql-for-data-science">An analysis of Yelp Reviews with SQL</a></br>
+<br>
 
+## 😃 Connect with Me
 
+<a href="www.linkedin.com/in/joan-kusuma">Linkedin</a>
 
 <!--
 **eyereece/eyereece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
