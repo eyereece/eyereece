@@ -10,7 +10,7 @@
 ## 💻 Latest Projects
 🛍️ <a href="https://github.com/eyereece/fashion-recommender-cv">Fashion Recommender System</a>, a system that detects fashion objects and learns image representations through Neural Networks. It also utilizes ANN similarity search index to retrieve and rank these image representations.
 * Models used: YOLOv5, Convolutional Autoencoder
-* ANN index: FAISS Flat Index
+* Vector Store: FAISS Flat Index
 * <a href="https://github.com/eyereece/yolo-object-detection-fashion">Object Detection Model Repo</a>, the object detection model was used to detect fashion objects and obtain bounding box coordinates
 * <a href="https://github.com/eyereece/visual-search-with-image-embedding">Embedding Model Repo</a>, the model then obtain a 512-dimensional embedding of each detected fashion objects with an embedding model, and utilized an ANN algorithm to find the top-k similar images based on their vector embeddings
 
