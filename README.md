@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## 💻 Latest Projects
-🤖 <a href="https://github.com/eyereece/ai-experiments/">AI experiments</a>, this is where I post my most recent experimentations with AI frameworks, mainly RAG, Agents, and LLMs
+🤖 <a href="https://github.com/eyereece/ai-projects/">AI projects</a>, this is where I post my most recent experimentations with AI frameworks, mainly RAG, Agents, and LLMs
 * <a href="https://github.com/eyereece/ai-experiments/tree/main/chat-with-your-pdf-ai">Chat with your PDF web app</a>
 
 🛍️ <a href="https://github.com/eyereece/fashion-recommender-cv">Fashion Recommender System</a>, a system that detects fashion objects and learns image representations through Neural Networks. It also utilizes ANN similarity search index to retrieve and rank these image representations.
