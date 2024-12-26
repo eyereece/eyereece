@@ -1,12 +1,6 @@
 <h2 align="center">Hi 👋, I'm Joan!</h2>
 <h5 align="center">📝 https://www.joankusuma.com </h5>
 
-#### 🛠️ Languages, Tools, and Technologies
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
 ## 💻 Latest Projects
 
 📊 <a href="https://vasilios.io">Vasilios.io</a>, a web application that scrapes data from a public internet archive of software engineering and data science articles, analyzes and visualizes the results of the data, including NLP and data analysis.
@@ -40,6 +34,14 @@
 <br>📊 <a href="https://github.com/eyereece/google-data-analytics-capstone-1">An Analysis of Bike Services Data with R</a></br>
 <br>💻 <a href="https://github.com/eyereece/coursera-sql-for-data-science">An analysis of Yelp Reviews with SQL</a></br>
 <br>
+
+#### 🛠️ Languages, Tools, and Technologies
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 😃 Connect with Me
 
