@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Joan!</h2>
 <h5 align="center">📝 https://www.joankusuma.com </h5>
 
+I am passionate about technologies and enjoy taking on complex projects and transforming ideas into a fully-functional applications that are both user-friendly and impactful. I'm also pursuing a Master's degree in Computer Science at the University of Colorado-Boulder to refine my skills and deepen my focus on creative problem-solving.
+
 ## 💻 Latest Projects
 
 📊 <a href="https://vasilios.io">Vasilios.io</a>, a web application that scrapes data from a public internet archive of software engineering and data science articles, analyzes and visualizes the results of the data, including NLP and data analysis.
@@ -38,10 +40,10 @@
 #### 🛠️ Languages, Tools, and Technologies
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![JavaScript](https://camo.githubusercontent.com/4782548a65fa3624ecac7ad20f5041fe79a2db457a6608a27c73b948b78cfd4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f6c6f676f3d6a61766173637269707426616d703b7374796c653d706c6173746963)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://camo.githubusercontent.com/3816e23541c86b325eb15dd82ea48c288d100917df244d67c8a7d08303d100d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d626c61636b3f6c6f676f3d616d617a6f6e2d61777326616d703b7374796c653d706c6173746963)
 
 ## 😃 Connect with Me
 
