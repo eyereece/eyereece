@@ -8,6 +8,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## 💻 Latest Projects
+
+📊 <a href="https://vasilios.io">Vasilios.io</a>, a web application that scrapes data from a public internet archive of software engineering and data science articles, analyzes and visualizes the results of the data, including NLP and data analysis.
+* Automated web scraper: Airflow, RabbitMQ, PostgreSQL, Python, Scrapy, deployed on AWS (public repo coming soon)
+* <a href="https://github.com/eyereece/nlp-text-mining-dashboard">Interactive NLP Dashboard</a>:
+  - Tech Stack: Python, Django, HTML/CSS, JavaScript, PostgreSQL, Docker, deployed on AWS
+  - The system fetches data through RESTful API from the database, analyzes the data with data analysis and NLP libraries (NumPy, Pandas, NLTK, etc.), and visualizes the dashboard on the frontend with Chart.js
+
 🤖 <a href="https://github.com/eyereece/ai-projects/">AI projects</a>, this is where I post my most recent experimentations with AI frameworks, mainly RAG, Agents, and LLMs
 * <a href="https://github.com/eyereece/ai-projects/tree/main/ai-analyst-agent">AI Analyst Agent web app</a>
 * <a href="https://github.com/eyereece/ai-experiments/tree/main/chat-with-your-pdf-ai">Chat with your PDF web app</a>
