@@ -11,10 +11,6 @@ I am passionate about technologies and enjoy taking on complex projects and tran
   - Tech Stack: Python, Django, HTML/CSS, JavaScript, PostgreSQL, Docker, deployed on AWS
   - The system fetches data through RESTful API from the database, analyzes the data with data analysis and NLP libraries (NumPy, Pandas, NLTK, etc.), and visualizes the dashboard on the frontend with Chart.js
 
-🤖 <a href="https://github.com/eyereece/ai-projects/">AI projects</a>, this is where I post my most recent experimentations with AI frameworks, mainly RAG, Agents, and LLMs
-* <a href="https://github.com/eyereece/ai-projects/tree/main/ai-analyst-agent">AI Analyst Agent web app</a>
-* <a href="https://github.com/eyereece/ai-experiments/tree/main/chat-with-your-pdf-ai">Chat with your PDF web app</a>
-
 🛍️ <a href="https://github.com/eyereece/fashion-recommender-cv">Fashion Recommender System</a>, a system that detects fashion objects and learns image representations through Neural Networks. It also utilizes ANN similarity search index to retrieve and rank these image representations.
 * Models used: YOLOv5, Convolutional Autoencoder
 * Vector Store: FAISS Flat Index
@@ -31,6 +27,7 @@ I am passionate about technologies and enjoy taking on complex projects and tran
 <br>
 
 ## ⌚️ Past Projects
+<br>🤖 <a href="https://github.com/eyereece/ai-projects/">AI projects</a>, this is where I post my most recent experimentations with AI frameworks, mainly RAG, Agents, and LLMs</br>
 <br>📺 <a href="https://github.com/eyereece/movie-recommenders-with-tensorflow">Movie Recommender System </a>, built a two tower model using TensorFlow and Netflix Dataset</br>
 <br>🐉 <a href="https://github.com/eyereece/cs50p-python-project">Mini Adventure Game</a>, my first mini project with Python</br>
 <br>📊 <a href="https://github.com/eyereece/google-data-analytics-capstone-1">An Analysis of Bike Services Data with R</a></br>
