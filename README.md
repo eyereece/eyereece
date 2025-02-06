@@ -4,7 +4,7 @@
 ## 💻 Latest Projects
 
 📊 <a href="https://vasilios.io">Vasilios.io</a>, a web application that scrapes data from a public internet archive of software engineering and data science articles, analyzes and visualizes the results of the data, including NLP and data analysis.
-* <a href="https://github.com/eyereece/airflow-dag-postgres-aws">Scheduled Web Scraper</a>: Airflow, RabbitMQ, PostgreSQL, Python, Scrapy, deployed on AWS
+* <a href="https://github.com/eyereece/airflow-dag-postgres-aws">Automated Web Scraper</a>: Airflow, RabbitMQ, PostgreSQL, Python, Scrapy, deployed on AWS
 * <a href="https://github.com/eyereece/nlp-text-mining-dashboard">Interactive NLP Dashboard</a>:
   - Tech Stack: Python, Django, HTML/CSS, JavaScript, PostgreSQL, Docker, deployed on AWS
   - The system fetches data through RESTful API from the database, analyzes the data with data analysis and NLP libraries (NumPy, Pandas, NLTK, etc.), and visualizes the dashboard on the frontend with Chart.js
