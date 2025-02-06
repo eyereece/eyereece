@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Joan!</h2>
 <h5 align="center">📝 https://www.joankusuma.com </h5>
 
-I am passionate about technologies and enjoy taking on complex projects and transforming ideas into a fully-functional applications that are both user-friendly and impactful. I'm also pursuing a Master's degree in Computer Science at the University of Colorado-Boulder to refine my skills and deepen my focus on creative problem-solving.
-
 ## 💻 Latest Projects
 
 📊 <a href="https://vasilios.io">Vasilios.io</a>, a web application that scrapes data from a public internet archive of software engineering and data science articles, analyzes and visualizes the results of the data, including NLP and data analysis.
