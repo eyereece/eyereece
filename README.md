@@ -17,16 +17,15 @@ I am passionate about technologies and enjoy taking on complex projects and tran
 * <a href="https://github.com/eyereece/yolo-object-detection-fashion">Object Detection Model Repo</a>, the object detection model was used to detect fashion objects and obtain bounding box coordinates
 * <a href="https://github.com/eyereece/visual-search-with-image-embedding">Embedding Model Repo</a>, the model then obtain a 512-dimensional embedding of each detected fashion objects with an embedding model, and utilized an ANN algorithm to find the top-k similar images based on their vector embeddings
 
-  
+
+## ⌚️ Past Projects
 📑  <a href="https://github.com/eyereece/deep-learning-notebooks/tree/main">Deep Learning Notebooks</a>
 * It currently contains my notebooks related to my experiments with different models and algorithms while working on the fashion recommender project above.
 * Image Classification with CNN (<a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/multiclass-fashion-image-classification">multiclass classification</a>)
 * Image Segmentation with UNET and a pretrained ResNet backbone (<a href="https://github.com/eyereece/deep-learning-notebooks/blob/main/multilabel_image_segmentation/unet-segmentation-1.ipynb">multilabel classification</a>)
 * Feature Extraction with pre-trained ResNet18 architecture (<a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/fashion-recommender-v1">fashion-recommender-v1</a>)
 * ANN Similarity Search Index comparisons (<a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/fashion-recommender-v1">fashion-recommender-v1</a>)
-<br>
 
-## ⌚️ Past Projects
 <br>🤖 <a href="https://github.com/eyereece/ai-projects/">AI projects</a>, this is where I post my most recent experimentations with AI frameworks, mainly RAG, Agents, and LLMs</br>
 <br>📺 <a href="https://github.com/eyereece/movie-recommenders-with-tensorflow">Movie Recommender System </a>, built a two tower model using TensorFlow and Netflix Dataset</br>
 <br>🐉 <a href="https://github.com/eyereece/cs50p-python-project">Mini Adventure Game</a>, my first mini project with Python</br>
