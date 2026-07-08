@@ -7,7 +7,7 @@ Outside of coursework, I spend most of my time building compiler and systems pro
 ## 💻 Latest Projects
 
 🔢 <a href="https://github.com/eyereece/tensor-compiler">Tensor Compiler</a>, this is my implementation of a tensor compiler built with MLIR. It supports a subset of ONNX operations and implements a lowering pipeline from an ONNX graph through MLIR to LLVM IR, with execution via JIT compilation. 
-* C++ (MLIR/LLVM), Python, Valgrind
+* C++ (MLIR/LLVM), Python, Valgrind, Lit, FileCheck
 
 
 ## ⌚️ Past Technical Explorations
