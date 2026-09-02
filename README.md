@@ -31,7 +31,7 @@ Frameworks:    MLIR, LLVM, PyTorch, Docker
 Tools:         Valgrind, Lit, FileCheck, Git, AWS
 ```
 
-## 😃 Connect with Me
+## Connect with Me
 
 <a href="www.linkedin.com/in/joan-kusuma">Linkedin</a>
 
