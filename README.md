@@ -6,6 +6,9 @@ Outside of coursework, I spend most of my time building compiler and systems pro
 
 ## 💻 Latest Projects
 
+⚙️<a href="https://github.com/eyereece/accelerator-compiler/">Accelerator-Compiler</a> **(in progress)**, I'm building a small FPGA-based accelerator and a compiler backend to learn how computations map to custom hardware. The current design includes a Nios V processor and a custom scalar unit for addition, subtraction, and multiplication.
+* Verilog, C, Quartus Prime, DE10-Lite (MAX10 FPGA)
+
 🔢 <a href="https://github.com/eyereece/tensor-compiler">Tensor Compiler</a>, this is my implementation of a tensor compiler built with MLIR. It supports a subset of ONNX operations and implements a lowering pipeline from an ONNX graph through MLIR to LLVM IR, with execution via JIT compilation. 
 * C++ (MLIR/LLVM), Python, Valgrind, Lit, FileCheck
 
