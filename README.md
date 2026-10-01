@@ -4,6 +4,8 @@
 I am a graduate student with an academic focus on embedded systems, low-level programming, and hardware-software integration.
 Outside of coursework, I spend most of my time building compiler and systems project, with a particular interest in performance optimization and machine learning systems.
 
+I’m currently seeking Summer 2027 internships in ML compilers, ML systems, or systems performance.
+
 ## 💻 Latest Projects
 
 ⚙️<a href="https://github.com/eyereece/accelerator-compiler/">Accelerator-Compiler</a> **(in progress)**, I'm building a small FPGA-based accelerator and a compiler backend to learn how computations map to custom hardware. The current design includes a Nios V processor and a custom scalar unit for addition, subtraction, and multiplication.
