@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Joan!</h2>
 <h5 align="center">📝 https://www.joankusuma.com </h5>
 
-I am a graduate student with an academic focus on embedded systems, low-level programming, and hardware-software integration.
+I am an ECE student with an academic focus on embedded systems, low-level programming, and hardware-software integration.
 Outside of coursework, I spend most of my time building compiler and systems project, with a particular interest in performance optimization and machine learning systems.
 
 I’m currently seeking Summer 2027 internships in ML compilers, ML systems, or systems performance.
