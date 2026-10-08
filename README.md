@@ -8,7 +8,7 @@ I’m currently seeking Summer 2027 internships in ML compilers, ML systems, or 
 
 ## 💻 Latest Projects
 
-⚙️<a href="https://github.com/eyereece/accelerator-compiler/">Accelerator-Compiler</a> **(in progress)**, I'm building a small FPGA-based accelerator and a compiler backend to learn how computations map to custom hardware. The current design includes a Nios V processor and a custom scalar unit for addition, subtraction, and multiplication.
+⚙️<a href="https://github.com/eyereece/accelerator-compiler/">Accelerator-Compiler</a> **(in progress)**, I'm building a small FPGA-based accelerator and a compiler backend to learn how computations map to custom hardware. The current hardware combines a softcore rocessor with a custom instruction set, execution controller, and scalar unit. The C++ backend is in progress, with IR validation, basic register allocation, and instruction encoding.
 * Verilog, C++, C, Quartus Prime, DE10-Lite (MAX10 FPGA)
 
 🔢 <a href="https://github.com/eyereece/tensor-compiler">Tensor Compiler</a>, this is my implementation of a tensor compiler built with MLIR. It supports a subset of ONNX operations and implements a lowering pipeline from an ONNX graph through MLIR to LLVM IR, with execution via JIT compilation. 
